@@ -90,11 +90,6 @@ A Discord music bot that allows users to enjoy music based on their mood and pre
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/01.pahadi133">
-    <img src="https://skillicons.dev/icons?i=instagram" height="55">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://github.com/itzsmoky">
     <img src="https://skillicons.dev/icons?i=github" height="55">
   </a>
@@ -106,13 +101,10 @@ A Discord music bot that allows users to enjoy music based on their mood and pre
 </p>
 
 <p align="center">
-  <b>Instagram:</b> @01.pahadi133
-  &nbsp; • &nbsp;
   <b>Discord:</b> ng.smoke
   &nbsp; • &nbsp;
   <b>GitHub:</b> @itzsmoky
 </p>
-
 ---
 
 ## 🔗 Quick Links
@@ -121,8 +113,6 @@ A Discord music bot that allows users to enjoy music based on their mood and pre
   <a href="https://synxbot.netlify.app/">🌐 Synx Website</a>
   •
   <a href="https://guns.lol/smoky.dev">👤 About Me</a>
-  •
-  <a href="https://instagram.com/01.pahadi133">📷 Instagram</a>
   •
   <a href="https://github.com/itzsmoky">💻 GitHub</a>
 </p>
